@@ -1,12 +1,12 @@
-body{
+.fondo{
     background-image: url(../../../../assets/img/fondo.jpg);background-repeat: no-repeat;
     background-size: cover;
+    padding: 2% 0%;
     
 }
 
 /* CONTENEDOR */
 .contenedor {
-    position: relative;
     top: 80px;
     width: 500px;
     margin: auto;
